@@ -8,14 +8,7 @@
 <body>
     <div id="app"></div>
     <script>
-        var base_url = document.location.protocol + "//" + document.location.hostname;
-
-        if (document.location.port) {
-            base_url += ":" + document.location.port;
-        }
-
-        console.log(base_url);
-
+        var base_url = location.href.replace(/[^/]*$/, '').slice(0, -1);
         var app = Elm.Main.init({
             node: document.getElementById("app"),
             flags: base_url,
