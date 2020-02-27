@@ -6297,11 +6297,6 @@ var $elm$html$Html$Attributes$stringProperty = F2(
 			$elm$json$Json$Encode$string(string));
 	});
 var $elm$html$Html$Attributes$class = $elm$html$Html$Attributes$stringProperty('className');
-var $elm$core$Basics$composeL = F3(
-	function (g, f, x) {
-		return g(
-			f(x));
-	});
 var $elm$json$Json$Encode$bool = _Json_wrap;
 var $elm$html$Html$Attributes$boolProperty = F2(
 	function (key, bool) {
@@ -6311,35 +6306,69 @@ var $elm$html$Html$Attributes$boolProperty = F2(
 			$elm$json$Json$Encode$bool(bool));
 	});
 var $elm$html$Html$Attributes$controls = $elm$html$Html$Attributes$boolProperty('controls');
+var $elm$html$Html$b = _VirtualDom_node('b');
 var $elm$html$Html$div = _VirtualDom_node('div');
+var $elm$virtual_dom$VirtualDom$style = _VirtualDom_style;
+var $elm$html$Html$Attributes$style = $elm$virtual_dom$VirtualDom$style;
 var $elm$virtual_dom$VirtualDom$text = _VirtualDom_text;
 var $elm$html$Html$text = $elm$virtual_dom$VirtualDom$text;
 var $author$project$Main$currentWordView = F2(
 	function (speaker, wchunk) {
 		var _v0 = _Utils_Tuple2(speaker, wchunk);
-		if ((_v0.a.$ === 'Just') && (_v0.b.$ === 'Just')) {
-			var sp = _v0.a.a;
-			var ch = _v0.b.a;
-			return A2(
-				$elm$html$Html$div,
-				_List_Nil,
-				_List_fromArray(
-					[
-						A2(
-						$elm$html$Html$div,
-						_List_Nil,
-						_List_fromArray(
-							[
-								$elm$html$Html$text('(' + (sp + ')'))
-							])),
-						A2(
-						$elm$html$Html$div,
-						_List_Nil,
-						_List_fromArray(
-							[
-								$elm$html$Html$text(ch.content)
-							]))
-					]));
+		if (_v0.a.$ === 'Just') {
+			if (_v0.b.$ === 'Nothing') {
+				var sp = _v0.a.a;
+				var _v1 = _v0.b;
+				return A2(
+					$elm$html$Html$div,
+					_List_Nil,
+					_List_fromArray(
+						[
+							A2(
+							$elm$html$Html$div,
+							_List_Nil,
+							_List_fromArray(
+								[
+									$elm$html$Html$text('Speaker Id: ' + (sp + ''))
+								]))
+						]));
+			} else {
+				var sp = _v0.a.a;
+				var ch = _v0.b.a;
+				return A2(
+					$elm$html$Html$div,
+					_List_Nil,
+					_List_fromArray(
+						[
+							A2(
+							$elm$html$Html$div,
+							_List_Nil,
+							_List_fromArray(
+								[
+									$elm$html$Html$text('Speaker Id: ' + (sp + ''))
+								])),
+							A2(
+							$elm$html$Html$div,
+							_List_fromArray(
+								[
+									A2($elm$html$Html$Attributes$style, 'margin', '10px')
+								]),
+							_List_fromArray(
+								[
+									A2(
+									$elm$html$Html$b,
+									_List_fromArray(
+										[
+											A2($elm$html$Html$Attributes$style, 'padding', '5px'),
+											A2($elm$html$Html$Attributes$style, 'border', '1px solid black')
+										]),
+									_List_fromArray(
+										[
+											$elm$html$Html$text(ch.content)
+										]))
+								]))
+						]));
+			}
 		} else {
 			return $elm$html$Html$text('');
 		}
@@ -6482,9 +6511,10 @@ var $author$project$Main$view = function (model) {
 				_List_Nil,
 				_List_fromArray(
 					[
-						A3($elm$core$Basics$composeL, $elm$html$Html$text, $elm$core$String$fromFloat, model.currentTime)
+						$elm$html$Html$text(
+						'Current time: ' + $elm$core$String$fromFloat(model.currentTime))
 					])),
-				A2($author$project$Main$currentWordView, speaker, wchunk)
+				(model.currentTime > 0) ? A2($author$project$Main$currentWordView, speaker, wchunk) : $elm$html$Html$text('')
 			]));
 };
 var $author$project$Main$main = $elm$browser$Browser$element(
