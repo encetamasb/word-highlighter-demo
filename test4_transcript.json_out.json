@@ -1,0 +1,3873 @@
+[
+  {
+    "status": "SUCCESS",
+    "task_id": "996683205898219739",
+    "task_url": "http://aws-cpu.xcellence.tech/api/convert_audio/996683205898219739",
+    "task_result": {
+      "engine": "xcel-3",
+      "engine_args": {
+        "alpha": "0.33",
+        "beta": "1.85"
+      },
+      "language": "en",
+      "duration": 219.7,
+      "created_at": "2020-01-23T04:19:02.348091Z",
+      "filename": "Test4.wav",
+      "transcripts": [
+        {
+          "speaker": "3",
+          "stime": 0,
+          "duration": 3.3,
+          "content": "installed",
+          "word_chunks": [
+            {
+              "stime": 2.9099999999999997,
+              "duration": 0.39,
+              "content": "installed",
+              "confidence": 0.9929160713555567
+            }
+          ],
+          "bookmarks": "ch# 1"
+        },
+        {
+          "speaker": "2",
+          "stime": 3.3,
+          "duration": 21.16,
+          "content": "to see a software on a windows pc the softer must be a to sarah version three point two later the most up to date version can be downloaded from the biamp website then among p c requirements window seven professional as pep on thirty two bit or sixty four bit ten eighty by ten twenty four screen resolution",
+          "word_chunks": [
+            {
+              "stime": 3.33,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.9964748838353895
+            },
+            {
+              "stime": 3.4499999999999997,
+              "duration": 0.3,
+              "content": "see",
+              "confidence": 0.5483864769182704
+            },
+            {
+              "stime": 3.6599999999999997,
+              "duration": 0.09,
+              "content": "a",
+              "confidence": 0.1942639946937561
+            },
+            {
+              "stime": 3.81,
+              "duration": 0.36,
+              "content": "software",
+              "confidence": 0.9939782131579211
+            },
+            {
+              "stime": 4.2,
+              "duration": 0.09,
+              "content": "on",
+              "confidence": 0.99610568322503
+            },
+            {
+              "stime": 4.35,
+              "duration": 0.03,
+              "content": "a",
+              "confidence": 0.9010742902755737
+            },
+            {
+              "stime": 4.41,
+              "duration": 0.36,
+              "content": "windows",
+              "confidence": 0.9837160015225683
+            },
+            {
+              "stime": 4.83,
+              "duration": 0.54,
+              "content": "pc",
+              "confidence": 0.9995565087719341
+            },
+            {
+              "stime": 5.52,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9894116579748913
+            },
+            {
+              "stime": 5.7,
+              "duration": 0.36,
+              "content": "softer",
+              "confidence": 0.9953361957400868
+            },
+            {
+              "stime": 6.12,
+              "duration": 0.15,
+              "content": "must",
+              "confidence": 0.9979413541157282
+            },
+            {
+              "stime": 6.3,
+              "duration": 0.09,
+              "content": "be",
+              "confidence": 0.9861720944158922
+            },
+            {
+              "stime": 6.42,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.7156387567520142
+            },
+            {
+              "stime": 6.54,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.9475601618465772
+            },
+            {
+              "stime": 6.6899999999999995,
+              "duration": 0.27,
+              "content": "sarah",
+              "confidence": 0.4477155878808738
+            },
+            {
+              "stime": 7.02,
+              "duration": 0.3,
+              "content": "version",
+              "confidence": 0.9966777608539963
+            },
+            {
+              "stime": 7.35,
+              "duration": 0.24,
+              "content": "three",
+              "confidence": 0.9851512643880255
+            },
+            {
+              "stime": 7.62,
+              "duration": 0.21,
+              "content": "point",
+              "confidence": 0.9839469067660391
+            },
+            {
+              "stime": 7.859999999999999,
+              "duration": 0.32999999999999996,
+              "content": "two",
+              "confidence": 0.7399076114058747
+            },
+            {
+              "stime": 8.25,
+              "duration": 0.87,
+              "content": "later",
+              "confidence": 0.990114744976765
+            },
+            {
+              "stime": 9.15,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.99440769835362
+            },
+            {
+              "stime": 9.33,
+              "duration": 0.15,
+              "content": "most",
+              "confidence": 0.9985923702882982
+            },
+            {
+              "stime": 9.57,
+              "duration": 0.12,
+              "content": "up",
+              "confidence": 0.9996331554255586
+            },
+            {
+              "stime": 9.75,
+              "duration": 0.06,
+              "content": "to",
+              "confidence": 0.9997130801321576
+            },
+            {
+              "stime": 9.84,
+              "duration": 0.18,
+              "content": "date",
+              "confidence": 0.9865850935862308
+            },
+            {
+              "stime": 10.08,
+              "duration": 0.27,
+              "content": "version",
+              "confidence": 0.9998968130735695
+            },
+            {
+              "stime": 10.41,
+              "duration": 0.12,
+              "content": "can",
+              "confidence": 0.9997672402462806
+            },
+            {
+              "stime": 10.59,
+              "duration": 0.06,
+              "content": "be",
+              "confidence": 0.9993969201000693
+            },
+            {
+              "stime": 10.709999999999999,
+              "duration": 0.44999999999999996,
+              "content": "downloaded",
+              "confidence": 0.9992236597649807
+            },
+            {
+              "stime": 11.19,
+              "duration": 0.15,
+              "content": "from",
+              "confidence": 0.9988494502371276
+            },
+            {
+              "stime": 11.37,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9855277669605437
+            },
+            {
+              "stime": 11.49,
+              "duration": 0.36,
+              "content": "biamp",
+              "confidence": 0.6167309031345674
+            },
+            {
+              "stime": 11.879999999999999,
+              "duration": 1.08,
+              "content": "website",
+              "confidence": 0.9954765487224034
+            },
+            {
+              "stime": 13.02,
+              "duration": 0.15,
+              "content": "then",
+              "confidence": 0.8519086503333847
+            },
+            {
+              "stime": 13.229999999999999,
+              "duration": 0.24,
+              "content": "among",
+              "confidence": 0.9542015259628532
+            },
+            {
+              "stime": 13.53,
+              "duration": 0.18,
+              "content": "p",
+              "confidence": 0.9982619881629944
+            },
+            {
+              "stime": 13.74,
+              "duration": 0.18,
+              "content": "c",
+              "confidence": 0.9993220567703247
+            },
+            {
+              "stime": 13.979999999999999,
+              "duration": 0.9299999999999999,
+              "content": "requirements",
+              "confidence": 0.9992190142662672
+            },
+            {
+              "stime": 14.969999999999999,
+              "duration": 0.39,
+              "content": "window",
+              "confidence": 0.9763489276520801
+            },
+            {
+              "stime": 15.42,
+              "duration": 0.27,
+              "content": "seven",
+              "confidence": 0.9966701504505759
+            },
+            {
+              "stime": 15.75,
+              "duration": 0.57,
+              "content": "professional",
+              "confidence": 0.9977807569518461
+            },
+            {
+              "stime": 16.41,
+              "duration": 0.15,
+              "content": "as",
+              "confidence": 0.8523307201548099
+            },
+            {
+              "stime": 16.59,
+              "duration": 0.27,
+              "content": "pep",
+              "confidence": 0.7332078419586553
+            },
+            {
+              "stime": 16.89,
+              "duration": 0.09,
+              "content": "on",
+              "confidence": 0.9489989404374324
+            },
+            {
+              "stime": 17.13,
+              "duration": 0.27,
+              "content": "thirty",
+              "confidence": 0.9891099247620604
+            },
+            {
+              "stime": 17.46,
+              "duration": 0.12,
+              "content": "two",
+              "confidence": 0.640662868900137
+            },
+            {
+              "stime": 17.64,
+              "duration": 0.15,
+              "content": "bit",
+              "confidence": 0.5528794649187867
+            },
+            {
+              "stime": 17.82,
+              "duration": 0.12,
+              "content": "or",
+              "confidence": 0.97913151560594
+            },
+            {
+              "stime": 18,
+              "duration": 0.3,
+              "content": "sixty",
+              "confidence": 0.998558195056184
+            },
+            {
+              "stime": 18.33,
+              "duration": 0.15,
+              "content": "four",
+              "confidence": 0.9222179741224739
+            },
+            {
+              "stime": 18.54,
+              "duration": 0.15,
+              "content": "bit",
+              "confidence": 0.7960415290047992
+            },
+            {
+              "stime": 19.57,
+              "duration": 0.24,
+              "content": "ten",
+              "confidence": 0.968180602820821
+            },
+            {
+              "stime": 19.900000000000002,
+              "duration": 0.24,
+              "content": "eighty",
+              "confidence": 0.9747021214228391
+            },
+            {
+              "stime": 20.17,
+              "duration": 0.9299999999999999,
+              "content": "by",
+              "confidence": 0.9926664747348755
+            },
+            {
+              "stime": 21.16,
+              "duration": 0.21,
+              "content": "ten",
+              "confidence": 0.9904951938206901
+            },
+            {
+              "stime": 21.43,
+              "duration": 0.24,
+              "content": "twenty",
+              "confidence": 0.9918390423740675
+            },
+            {
+              "stime": 21.700000000000003,
+              "duration": 0.21,
+              "content": "four",
+              "confidence": 0.9986857653160738
+            },
+            {
+              "stime": 21.970000000000002,
+              "duration": 0.24,
+              "content": "screen",
+              "confidence": 0.9892459853226303
+            },
+            {
+              "stime": 22.270000000000003,
+              "duration": 2.19,
+              "content": "resolution",
+              "confidence": 0.9984894009180741
+            }
+          ],
+          "bookmarks": "ch# 1"
+        },
+        {
+          "speaker": "4",
+          "stime": 24.46,
+          "duration": 28.53,
+          "content": "notices hereby given to typical no county border commissioners will receive separate sealed bids until tenan each room stand in time esc on tuesday january forty eight twenty twenty at twenty north third street la at indiana four seven nine zero one delivered to authors office on second floor love sum bids will be received but for tip kinnear county courtroom medivation has shown on the contract documents a here and after a specified or set forward",
+          "word_chunks": [
+            {
+              "stime": 24.520000000000003,
+              "duration": 0.42,
+              "content": "notices",
+              "confidence": 0.9981376349260108
+            },
+            {
+              "stime": 24.97,
+              "duration": 0.36,
+              "content": "hereby",
+              "confidence": 0.9669301624860586
+            },
+            {
+              "stime": 25.39,
+              "duration": 0.32999999999999996,
+              "content": "given",
+              "confidence": 0.9631722741739341
+            },
+            {
+              "stime": 25.78,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.9833801005244892
+            },
+            {
+              "stime": 25.900000000000002,
+              "duration": 0.57,
+              "content": "typical",
+              "confidence": 0.8757823445699112
+            },
+            {
+              "stime": 26.26,
+              "duration": 0.21,
+              "content": "no",
+              "confidence": 0.6213092579155428
+            },
+            {
+              "stime": 26.59,
+              "duration": 0.3,
+              "content": "county",
+              "confidence": 0.9955295821128108
+            },
+            {
+              "stime": 27.01,
+              "duration": 0.27,
+              "content": "border",
+              "confidence": 0.8595177486634257
+            },
+            {
+              "stime": 27.310000000000002,
+              "duration": 0.6,
+              "content": "commissioners",
+              "confidence": 0.9753821726897471
+            },
+            {
+              "stime": 28.060000000000002,
+              "duration": 0.15,
+              "content": "will",
+              "confidence": 0.865861049238687
+            },
+            {
+              "stime": 28.270000000000003,
+              "duration": 0.36,
+              "content": "receive",
+              "confidence": 0.7719670921427474
+            },
+            {
+              "stime": 28.72,
+              "duration": 0.44999999999999996,
+              "content": "separate",
+              "confidence": 0.9900792146262605
+            },
+            {
+              "stime": 29.23,
+              "duration": 0.3,
+              "content": "sealed",
+              "confidence": 0.8364558674071861
+            },
+            {
+              "stime": 29.590000000000003,
+              "duration": 0.21,
+              "content": "bids",
+              "confidence": 0.6310443255732671
+            },
+            {
+              "stime": 29.86,
+              "duration": 0.24,
+              "content": "until",
+              "confidence": 0.9918866862716893
+            },
+            {
+              "stime": 30.22,
+              "duration": 0.63,
+              "content": "tenan",
+              "confidence": 0.6327251492703104
+            },
+            {
+              "stime": 31.090000000000003,
+              "duration": 0.12,
+              "content": "each",
+              "confidence": 0.5913505841448992
+            },
+            {
+              "stime": 31.270000000000003,
+              "duration": 0.15,
+              "content": "room",
+              "confidence": 0.9306903846425232
+            },
+            {
+              "stime": 31.450000000000003,
+              "duration": 0.18,
+              "content": "stand",
+              "confidence": 0.673353029858232
+            },
+            {
+              "stime": 31.66,
+              "duration": 0.12,
+              "content": "in",
+              "confidence": 0.2860603547199939
+            },
+            {
+              "stime": 31.840000000000003,
+              "duration": 0.21,
+              "content": "time",
+              "confidence": 0.8849814602765085
+            },
+            {
+              "stime": 32.11,
+              "duration": 0.6,
+              "content": "esc",
+              "confidence": 0.7304239840251385
+            },
+            {
+              "stime": 32.74,
+              "duration": 0.12,
+              "content": "on",
+              "confidence": 0.9981350560123209
+            },
+            {
+              "stime": 32.92,
+              "duration": 0.3,
+              "content": "tuesday",
+              "confidence": 0.9869690752568092
+            },
+            {
+              "stime": 33.4,
+              "duration": 0.36,
+              "content": "january",
+              "confidence": 0.9910965002643408
+            },
+            {
+              "stime": 33.88,
+              "duration": 0.24,
+              "content": "forty",
+              "confidence": 0.6012847681993805
+            },
+            {
+              "stime": 34.15,
+              "duration": 0.21,
+              "content": "eight",
+              "confidence": 0.6454892950592416
+            },
+            {
+              "stime": 34.39,
+              "duration": 0.27,
+              "content": "twenty",
+              "confidence": 0.9974617745982303
+            },
+            {
+              "stime": 34.69,
+              "duration": 0.21,
+              "content": "twenty",
+              "confidence": 0.9967309933660379
+            },
+            {
+              "stime": 35.400000000000006,
+              "duration": 0.18,
+              "content": "at",
+              "confidence": 0.9458484900718874
+            },
+            {
+              "stime": 35.64,
+              "duration": 0.32999999999999996,
+              "content": "twenty",
+              "confidence": 0.940661627333864
+            },
+            {
+              "stime": 36.03,
+              "duration": 0.27,
+              "content": "north",
+              "confidence": 0.9452925824148574
+            },
+            {
+              "stime": 36.330000000000005,
+              "duration": 0.32999999999999996,
+              "content": "third",
+              "confidence": 0.9457846550657895
+            },
+            {
+              "stime": 36.720000000000006,
+              "duration": 0.32999999999999996,
+              "content": "street",
+              "confidence": 0.9943391605158153
+            },
+            {
+              "stime": 37.11000000000001,
+              "duration": 0.18,
+              "content": "la",
+              "confidence": 0.9125656481197337
+            },
+            {
+              "stime": 37.35,
+              "duration": 0.6599999999999999,
+              "content": "at",
+              "confidence": 0.592805398441787
+            },
+            {
+              "stime": 38.07,
+              "duration": 0.54,
+              "content": "indiana",
+              "confidence": 0.876941316447661
+            },
+            {
+              "stime": 38.7,
+              "duration": 0.24,
+              "content": "four",
+              "confidence": 0.8904415917891602
+            },
+            {
+              "stime": 39,
+              "duration": 0.3,
+              "content": "seven",
+              "confidence": 0.9631968170194248
+            },
+            {
+              "stime": 39.36,
+              "duration": 0.24,
+              "content": "nine",
+              "confidence": 0.9628273232996165
+            },
+            {
+              "stime": 39.660000000000004,
+              "duration": 0.3,
+              "content": "zero",
+              "confidence": 0.9067923482739169
+            },
+            {
+              "stime": 40.080000000000005,
+              "duration": 0.54,
+              "content": "one",
+              "confidence": 0.9675315832239085
+            },
+            {
+              "stime": 40.68000000000001,
+              "duration": 0.32999999999999996,
+              "content": "delivered",
+              "confidence": 0.8632908443577542
+            },
+            {
+              "stime": 41.040000000000006,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.9901274578237381
+            },
+            {
+              "stime": 41.34,
+              "duration": 0.42,
+              "content": "authors",
+              "confidence": 0.7411207899262682
+            },
+            {
+              "stime": 41.82,
+              "duration": 0.39,
+              "content": "office",
+              "confidence": 0.9845188935048423
+            },
+            {
+              "stime": 42.27,
+              "duration": 0.06,
+              "content": "on",
+              "confidence": 0.9982358589636444
+            },
+            {
+              "stime": 42.510000000000005,
+              "duration": 0.24,
+              "content": "second",
+              "confidence": 0.9937001398739916
+            },
+            {
+              "stime": 42.81,
+              "duration": 0.87,
+              "content": "floor",
+              "confidence": 0.9947993118280067
+            },
+            {
+              "stime": 43.74,
+              "duration": 0.24,
+              "content": "love",
+              "confidence": 0.8546439816347953
+            },
+            {
+              "stime": 44.010000000000005,
+              "duration": 0.21,
+              "content": "sum",
+              "confidence": 0.742518007081515
+            },
+            {
+              "stime": 44.28,
+              "duration": 0.24,
+              "content": "bids",
+              "confidence": 0.830855910137157
+            },
+            {
+              "stime": 44.580000000000005,
+              "duration": 0.18,
+              "content": "will",
+              "confidence": 0.9923687417881195
+            },
+            {
+              "stime": 44.790000000000006,
+              "duration": 0.12,
+              "content": "be",
+              "confidence": 0.9605212111032323
+            },
+            {
+              "stime": 44.97,
+              "duration": 0.44999999999999996,
+              "content": "received",
+              "confidence": 0.9869210598747777
+            },
+            {
+              "stime": 45.480000000000004,
+              "duration": 0.3,
+              "content": "but",
+              "confidence": 0.7830060083295615
+            },
+            {
+              "stime": 45.84,
+              "duration": 0.27,
+              "content": "for",
+              "confidence": 0.9828030360075793
+            },
+            {
+              "stime": 46.230000000000004,
+              "duration": 0.18,
+              "content": "tip",
+              "confidence": 0.6358510754631772
+            },
+            {
+              "stime": 46.440000000000005,
+              "duration": 0.36,
+              "content": "kinnear",
+              "confidence": 0.6565801593943709
+            },
+            {
+              "stime": 46.86,
+              "duration": 0.32999999999999996,
+              "content": "county",
+              "confidence": 0.9992432369057377
+            },
+            {
+              "stime": 47.28,
+              "duration": 0.42,
+              "content": "courtroom",
+              "confidence": 0.6211865664652966
+            },
+            {
+              "stime": 47.730000000000004,
+              "duration": 0.57,
+              "content": "medivation",
+              "confidence": 0.8886656788691676
+            },
+            {
+              "stime": 48.36,
+              "duration": 0.15,
+              "content": "has",
+              "confidence": 0.8471911778420994
+            },
+            {
+              "stime": 48.57,
+              "duration": 0.36,
+              "content": "shown",
+              "confidence": 0.9385607583052862
+            },
+            {
+              "stime": 49.11,
+              "duration": 0.09,
+              "content": "on",
+              "confidence": 0.723761748938729
+            },
+            {
+              "stime": 49.260000000000005,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9848249529817328
+            },
+            {
+              "stime": 49.440000000000005,
+              "duration": 0.39,
+              "content": "contract",
+              "confidence": 0.9975742567563431
+            },
+            {
+              "stime": 49.89,
+              "duration": 0.39,
+              "content": "documents",
+              "confidence": 0.9928238576965265
+            },
+            {
+              "stime": 50.68,
+              "duration": 0.12,
+              "content": "a",
+              "confidence": 0.5541924834251404
+            },
+            {
+              "stime": 50.830000000000005,
+              "duration": 0.18,
+              "content": "here",
+              "confidence": 0.7029055577938054
+            },
+            {
+              "stime": 51.04,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.8289410879442295
+            },
+            {
+              "stime": 51.190000000000005,
+              "duration": 0.27,
+              "content": "after",
+              "confidence": 0.9952918993237333
+            },
+            {
+              "stime": 51.52,
+              "duration": 0.09,
+              "content": "a",
+              "confidence": 0.8787110447883606
+            },
+            {
+              "stime": 51.67,
+              "duration": 0.6,
+              "content": "specified",
+              "confidence": 0.9698292546530437
+            },
+            {
+              "stime": 52.300000000000004,
+              "duration": 0.12,
+              "content": "or",
+              "confidence": 0.43259727357596683
+            },
+            {
+              "stime": 52.480000000000004,
+              "duration": 0.18,
+              "content": "set",
+              "confidence": 0.9086556508717298
+            },
+            {
+              "stime": 52.72,
+              "duration": 0.27,
+              "content": "forward",
+              "confidence": 0.8269279469422613
+            }
+          ],
+          "bookmarks": "ch# 2"
+        },
+        {
+          "speaker": "3",
+          "stime": 52.99,
+          "duration": 2.73,
+          "content": "in the conductors be form",
+          "word_chunks": [
+            {
+              "stime": 53.050000000000004,
+              "duration": 0.06,
+              "content": "in",
+              "confidence": 0.6481399728258886
+            },
+            {
+              "stime": 53.14,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.5050714164302236
+            },
+            {
+              "stime": 53.260000000000005,
+              "duration": 0.48,
+              "content": "conductors",
+              "confidence": 0.8840502355399409
+            },
+            {
+              "stime": 53.77,
+              "duration": 0.12,
+              "content": "be",
+              "confidence": 0.5291628759447121
+            },
+            {
+              "stime": 53.95,
+              "duration": 1.77,
+              "content": "form",
+              "confidence": 0.8517014596782579
+            }
+          ],
+          "bookmarks": "ch# 1"
+        },
+        {
+          "speaker": "2",
+          "stime": 55.72,
+          "duration": 28.110000000000003,
+          "content": "connect the p c in to sir forte to the network connect a cat fi e cable between your pc and the tasia forte device direct connection attaching ether net cable from the pc's network card to the tasia forts at ethen appart the taira forte either nat port is autosensing so a straighter crossover cable can be used connecting via ethernet switch attach an ethernet cable from the network card to a one hundred one thousand based tea ethernet switch",
+          "word_chunks": [
+            {
+              "stime": 55.81,
+              "duration": 0.3,
+              "content": "connect",
+              "confidence": 0.9997796149940467
+            },
+            {
+              "stime": 56.14,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9971522718529943
+            },
+            {
+              "stime": 56.29,
+              "duration": 0.15,
+              "content": "p",
+              "confidence": 0.9933245778083801
+            },
+            {
+              "stime": 56.5,
+              "duration": 0.12,
+              "content": "c",
+              "confidence": 0.9979537725448608
+            },
+            {
+              "stime": 56.650000000000006,
+              "duration": 0.09,
+              "content": "in",
+              "confidence": 0.889430956864597
+            },
+            {
+              "stime": 56.800000000000004,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.7799671558130024
+            },
+            {
+              "stime": 56.95,
+              "duration": 0.24,
+              "content": "sir",
+              "confidence": 0.6107709358667982
+            },
+            {
+              "stime": 57.25,
+              "duration": 0.36,
+              "content": "forte",
+              "confidence": 0.7486931477624095
+            },
+            {
+              "stime": 57.64,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.770139847064741
+            },
+            {
+              "stime": 57.760000000000005,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9952870961015454
+            },
+            {
+              "stime": 57.910000000000004,
+              "duration": 0.63,
+              "content": "network",
+              "confidence": 0.9997724462442276
+            },
+            {
+              "stime": 58.72,
+              "duration": 0.32999999999999996,
+              "content": "connect",
+              "confidence": 0.8242379242700985
+            },
+            {
+              "stime": 59.11,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.8656508922576904
+            },
+            {
+              "stime": 59.230000000000004,
+              "duration": 0.18,
+              "content": "cat",
+              "confidence": 0.4681655411056743
+            },
+            {
+              "stime": 59.47,
+              "duration": 0.18,
+              "content": "fi",
+              "confidence": 0.8700718803646557
+            },
+            {
+              "stime": 59.71,
+              "duration": 0.12,
+              "content": "e",
+              "confidence": 0.7525908350944519
+            },
+            {
+              "stime": 59.89,
+              "duration": 0.24,
+              "content": "cable",
+              "confidence": 0.9957360400043259
+            },
+            {
+              "stime": 60.19,
+              "duration": 0.27,
+              "content": "between",
+              "confidence": 0.9990562173847941
+            },
+            {
+              "stime": 60.49,
+              "duration": 0.12,
+              "content": "your",
+              "confidence": 0.969797442093877
+            },
+            {
+              "stime": 60.64,
+              "duration": 0.32999999999999996,
+              "content": "pc",
+              "confidence": 0.9922393747402892
+            },
+            {
+              "stime": 61,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.9953004897538176
+            },
+            {
+              "stime": 61.120000000000005,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9730497164689896
+            },
+            {
+              "stime": 61.27,
+              "duration": 0.36,
+              "content": "tasia",
+              "confidence": 0.5914271899301732
+            },
+            {
+              "stime": 61.660000000000004,
+              "duration": 0.36,
+              "content": "forte",
+              "confidence": 0.7696580056773015
+            },
+            {
+              "stime": 62.050000000000004,
+              "duration": 1.05,
+              "content": "device",
+              "confidence": 0.9950473130202688
+            },
+            {
+              "stime": 63.160000000000004,
+              "duration": 0.32999999999999996,
+              "content": "direct",
+              "confidence": 0.9958145805636232
+            },
+            {
+              "stime": 63.550000000000004,
+              "duration": 0.44999999999999996,
+              "content": "connection",
+              "confidence": 0.9377040438717608
+            },
+            {
+              "stime": 64.24000000000001,
+              "duration": 0.42,
+              "content": "attaching",
+              "confidence": 0.9744619192830687
+            },
+            {
+              "stime": 64.72,
+              "duration": 0.21,
+              "content": "ether",
+              "confidence": 0.998692028062065
+            },
+            {
+              "stime": 64.99000000000001,
+              "duration": 0.15,
+              "content": "net",
+              "confidence": 0.6312757871029128
+            },
+            {
+              "stime": 65.17,
+              "duration": 0.27,
+              "content": "cable",
+              "confidence": 0.974296123465959
+            },
+            {
+              "stime": 65.5,
+              "duration": 0.12,
+              "content": "from",
+              "confidence": 0.9950381023708792
+            },
+            {
+              "stime": 65.65,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9952863739053032
+            },
+            {
+              "stime": 65.8,
+              "duration": 0.36,
+              "content": "pc's",
+              "confidence": 0.9518532294758103
+            },
+            {
+              "stime": 66.22,
+              "duration": 0.32999999999999996,
+              "content": "network",
+              "confidence": 0.9998806497492232
+            },
+            {
+              "stime": 66.61,
+              "duration": 0.21,
+              "content": "card",
+              "confidence": 0.9961591574109382
+            },
+            {
+              "stime": 66.88,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.911210757180907
+            },
+            {
+              "stime": 67.03,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9739792442824152
+            },
+            {
+              "stime": 67.18,
+              "duration": 0.39,
+              "content": "tasia",
+              "confidence": 0.5654747816971898
+            },
+            {
+              "stime": 67.63,
+              "duration": 0.21,
+              "content": "forts",
+              "confidence": 0.8792721215803925
+            },
+            {
+              "stime": 67.9,
+              "duration": 0.09,
+              "content": "at",
+              "confidence": 0.5507767766501012
+            },
+            {
+              "stime": 68.05,
+              "duration": 0.27,
+              "content": "ethen",
+              "confidence": 0.8796556100754009
+            },
+            {
+              "stime": 68.38,
+              "duration": 0.3,
+              "content": "appart",
+              "confidence": 0.5472763932531215
+            },
+            {
+              "stime": 69.4,
+              "duration": 0.15,
+              "content": "the",
+              "confidence": 0.9871162743144344
+            },
+            {
+              "stime": 69.58,
+              "duration": 0.42,
+              "content": "taira",
+              "confidence": 0.7317904609719995
+            },
+            {
+              "stime": 70.03,
+              "duration": 0.42,
+              "content": "forte",
+              "confidence": 0.720563988650373
+            },
+            {
+              "stime": 70.51,
+              "duration": 0.21,
+              "content": "either",
+              "confidence": 0.9186955962837834
+            },
+            {
+              "stime": 70.78,
+              "duration": 0.15,
+              "content": "nat",
+              "confidence": 0.5323145632197076
+            },
+            {
+              "stime": 70.96000000000001,
+              "duration": 0.27,
+              "content": "port",
+              "confidence": 0.812337271944634
+            },
+            {
+              "stime": 71.29,
+              "duration": 0.12,
+              "content": "is",
+              "confidence": 0.7626381689663809
+            },
+            {
+              "stime": 71.5,
+              "duration": 0.69,
+              "content": "autosensing",
+              "confidence": 0.8713894989096163
+            },
+            {
+              "stime": 72.25,
+              "duration": 0.21,
+              "content": "so",
+              "confidence": 0.8614678673651257
+            },
+            {
+              "stime": 72.43,
+              "duration": 0.03,
+              "content": "a",
+              "confidence": 0.4383203089237213
+            },
+            {
+              "stime": 72.52,
+              "duration": 0.36,
+              "content": "straighter",
+              "confidence": 0.7227884683060631
+            },
+            {
+              "stime": 72.91,
+              "duration": 0.51,
+              "content": "crossover",
+              "confidence": 0.9969478175074655
+            },
+            {
+              "stime": 73.48,
+              "duration": 0.24,
+              "content": "cable",
+              "confidence": 0.9963255640908651
+            },
+            {
+              "stime": 73.78,
+              "duration": 0.18,
+              "content": "can",
+              "confidence": 0.9967132432233088
+            },
+            {
+              "stime": 74.02,
+              "duration": 0.09,
+              "content": "be",
+              "confidence": 0.9995052788591997
+            },
+            {
+              "stime": 74.17,
+              "duration": 1.02,
+              "content": "used",
+              "confidence": 0.998501736434709
+            },
+            {
+              "stime": 75.25,
+              "duration": 0.44999999999999996,
+              "content": "connecting",
+              "confidence": 0.9994521076895838
+            },
+            {
+              "stime": 75.76,
+              "duration": 0.24,
+              "content": "via",
+              "confidence": 0.9986452158461486
+            },
+            {
+              "stime": 76.06,
+              "duration": 0.42,
+              "content": "ethernet",
+              "confidence": 0.6626525300539059
+            },
+            {
+              "stime": 76.51,
+              "duration": 0.48,
+              "content": "switch",
+              "confidence": 0.9986734524575657
+            },
+            {
+              "stime": 77.05,
+              "duration": 0.32999999999999996,
+              "content": "attach",
+              "confidence": 0.9956543845254681
+            },
+            {
+              "stime": 77.44,
+              "duration": 0.09,
+              "content": "an",
+              "confidence": 0.9559225149444561
+            },
+            {
+              "stime": 77.56,
+              "duration": 0.39,
+              "content": "ethernet",
+              "confidence": 0.5824641466731331
+            },
+            {
+              "stime": 77.98,
+              "duration": 0.21,
+              "content": "cable",
+              "confidence": 0.9379993644288304
+            },
+            {
+              "stime": 78.25,
+              "duration": 0.12,
+              "content": "from",
+              "confidence": 0.9984633346673004
+            },
+            {
+              "stime": 78.4,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9638419974677529
+            },
+            {
+              "stime": 78.52,
+              "duration": 0.3,
+              "content": "network",
+              "confidence": 0.9994597159804691
+            },
+            {
+              "stime": 78.88,
+              "duration": 0.24,
+              "content": "card",
+              "confidence": 0.8240357024890894
+            },
+            {
+              "stime": 79.18,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.9246123115371419
+            },
+            {
+              "stime": 79.33,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.6825354099273682
+            },
+            {
+              "stime": 79.45,
+              "duration": 0.15,
+              "content": "one",
+              "confidence": 0.9964251366370008
+            },
+            {
+              "stime": 79.63,
+              "duration": 0.78,
+              "content": "hundred",
+              "confidence": 0.924741374815746
+            },
+            {
+              "stime": 80.47,
+              "duration": 0.12,
+              "content": "one",
+              "confidence": 0.9993738920712565
+            },
+            {
+              "stime": 80.62,
+              "duration": 0.39,
+              "content": "thousand",
+              "confidence": 0.9856937848846661
+            },
+            {
+              "stime": 81.07000000000001,
+              "duration": 0.24,
+              "content": "based",
+              "confidence": 0.9091267711443056
+            },
+            {
+              "stime": 81.37,
+              "duration": 0.27,
+              "content": "tea",
+              "confidence": 0.8218975594310682
+            },
+            {
+              "stime": 81.67,
+              "duration": 0.44999999999999996,
+              "content": "ethernet",
+              "confidence": 0.9728146095401501
+            },
+            {
+              "stime": 82.15,
+              "duration": 1.68,
+              "content": "switch",
+              "confidence": 0.8709436426550943
+            }
+          ],
+          "bookmarks": "ch# 1"
+        },
+        {
+          "speaker": "4",
+          "stime": 83.83,
+          "duration": 30.89,
+          "content": "the work for which bid he requested includes all way where materials equipment and items of materials and services required to provide a faber and complete construction of this project the work shall be constructed in accordance with a notice of bitters project mining old drawings and agenda as prepared for this project bed in bid guarantees job in place and sealed envelopes and address to the typica new county board of commissioners and so lists the public name the name and address of the bidder in the bid package separate envelopes shall be provided for each bid package",
+          "word_chunks": [
+            {
+              "stime": 83.86,
+              "duration": 0.15,
+              "content": "the",
+              "confidence": 0.9750105042793674
+            },
+            {
+              "stime": 84.04,
+              "duration": 0.18,
+              "content": "work",
+              "confidence": 0.9978753904009439
+            },
+            {
+              "stime": 84.25,
+              "duration": 0.12,
+              "content": "for",
+              "confidence": 0.9906331917733812
+            },
+            {
+              "stime": 84.4,
+              "duration": 0.18,
+              "content": "which",
+              "confidence": 0.9988359433024596
+            },
+            {
+              "stime": 84.64,
+              "duration": 0.21,
+              "content": "bid",
+              "confidence": 0.750892447758761
+            },
+            {
+              "stime": 84.91,
+              "duration": 0.09,
+              "content": "he",
+              "confidence": 0.42751095615566836
+            },
+            {
+              "stime": 85.06,
+              "duration": 0.39,
+              "content": "requested",
+              "confidence": 0.8855262797982991
+            },
+            {
+              "stime": 85.54,
+              "duration": 0.32999999999999996,
+              "content": "includes",
+              "confidence": 0.9908356654325635
+            },
+            {
+              "stime": 85.96000000000001,
+              "duration": 0.15,
+              "content": "all",
+              "confidence": 0.9587963508216376
+            },
+            {
+              "stime": 86.17,
+              "duration": 0.15,
+              "content": "way",
+              "confidence": 0.9731511876463473
+            },
+            {
+              "stime": 86.35,
+              "duration": 0.21,
+              "content": "where",
+              "confidence": 0.9191349148053294
+            },
+            {
+              "stime": 86.59,
+              "duration": 0.57,
+              "content": "materials",
+              "confidence": 0.9627911750902555
+            },
+            {
+              "stime": 87.22,
+              "duration": 0.36,
+              "content": "equipment",
+              "confidence": 0.9991032225543461
+            },
+            {
+              "stime": 87.64,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.9930695324592694
+            },
+            {
+              "stime": 87.82,
+              "duration": 0.24,
+              "content": "items",
+              "confidence": 0.9841306049888362
+            },
+            {
+              "stime": 88.12,
+              "duration": 0.09,
+              "content": "of",
+              "confidence": 0.9337127039476696
+            },
+            {
+              "stime": 88.27,
+              "duration": 0.42,
+              "content": "materials",
+              "confidence": 0.9966530673993875
+            },
+            {
+              "stime": 88.72,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.983986031567124
+            },
+            {
+              "stime": 88.87,
+              "duration": 0.39,
+              "content": "services",
+              "confidence": 0.9973918958093388
+            },
+            {
+              "stime": 89.35,
+              "duration": 0.39,
+              "content": "required",
+              "confidence": 0.9975797316215873
+            },
+            {
+              "stime": 90.08000000000001,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.9389097449910636
+            },
+            {
+              "stime": 90.26,
+              "duration": 0.27,
+              "content": "provide",
+              "confidence": 0.9981315959607326
+            },
+            {
+              "stime": 90.59,
+              "duration": 0.09,
+              "content": "a",
+              "confidence": 0.5426419973373413
+            },
+            {
+              "stime": 90.71000000000001,
+              "duration": 0.32999999999999996,
+              "content": "faber",
+              "confidence": 0.6465257652258277
+            },
+            {
+              "stime": 91.07000000000001,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.9439047070089248
+            },
+            {
+              "stime": 91.22000000000001,
+              "duration": 0.32999999999999996,
+              "content": "complete",
+              "confidence": 0.9922138623937484
+            },
+            {
+              "stime": 91.61000000000001,
+              "duration": 0.42,
+              "content": "construction",
+              "confidence": 0.9996740213078341
+            },
+            {
+              "stime": 92.09,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.9932140367497134
+            },
+            {
+              "stime": 92.21000000000001,
+              "duration": 0.15,
+              "content": "this",
+              "confidence": 0.9928240139969482
+            },
+            {
+              "stime": 92.42,
+              "duration": 0.48,
+              "content": "project",
+              "confidence": 0.9991739442655198
+            },
+            {
+              "stime": 93.2,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9944253088480942
+            },
+            {
+              "stime": 93.38000000000001,
+              "duration": 0.15,
+              "content": "work",
+              "confidence": 0.9958125184899898
+            },
+            {
+              "stime": 93.56,
+              "duration": 0.18,
+              "content": "shall",
+              "confidence": 0.7694515649997341
+            },
+            {
+              "stime": 93.77000000000001,
+              "duration": 0.09,
+              "content": "be",
+              "confidence": 0.5528704902175914
+            },
+            {
+              "stime": 93.89000000000001,
+              "duration": 0.48,
+              "content": "constructed",
+              "confidence": 0.841144185864452
+            },
+            {
+              "stime": 94.43,
+              "duration": 0.09,
+              "content": "in",
+              "confidence": 0.7838972272444764
+            },
+            {
+              "stime": 94.55000000000001,
+              "duration": 0.42,
+              "content": "accordance",
+              "confidence": 0.7247139777448335
+            },
+            {
+              "stime": 95.00000000000001,
+              "duration": 0.12,
+              "content": "with",
+              "confidence": 0.9944265974257426
+            },
+            {
+              "stime": 95.18,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.6616505980491638
+            },
+            {
+              "stime": 95.30000000000001,
+              "duration": 0.24,
+              "content": "notice",
+              "confidence": 0.998516060368311
+            },
+            {
+              "stime": 95.60000000000001,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.8579194834977141
+            },
+            {
+              "stime": 95.69000000000001,
+              "duration": 0.39,
+              "content": "bitters",
+              "confidence": 0.9249628843000371
+            },
+            {
+              "stime": 96.14000000000001,
+              "duration": 0.27,
+              "content": "project",
+              "confidence": 0.8659894687009607
+            },
+            {
+              "stime": 96.53,
+              "duration": 0.27,
+              "content": "mining",
+              "confidence": 0.49088825404248293
+            },
+            {
+              "stime": 96.83000000000001,
+              "duration": 0.18,
+              "content": "old",
+              "confidence": 0.9287169720879441
+            },
+            {
+              "stime": 97.04,
+              "duration": 0.44999999999999996,
+              "content": "drawings",
+              "confidence": 0.9699874871529224
+            },
+            {
+              "stime": 97.55000000000001,
+              "duration": 0.32999999999999996,
+              "content": "and",
+              "confidence": 0.9888941718136268
+            },
+            {
+              "stime": 97.94000000000001,
+              "duration": 0.48,
+              "content": "agenda",
+              "confidence": 0.735537686181857
+            },
+            {
+              "stime": 98.54,
+              "duration": 0.12,
+              "content": "as",
+              "confidence": 0.9695863206982207
+            },
+            {
+              "stime": 98.75,
+              "duration": 0.48,
+              "content": "prepared",
+              "confidence": 0.9936141505341793
+            },
+            {
+              "stime": 99.5,
+              "duration": 0.09,
+              "content": "for",
+              "confidence": 0.9690111354008124
+            },
+            {
+              "stime": 99.62,
+              "duration": 0.18,
+              "content": "this",
+              "confidence": 0.714543965639469
+            },
+            {
+              "stime": 99.86000000000001,
+              "duration": 0.75,
+              "content": "project",
+              "confidence": 0.9979153166018702
+            },
+            {
+              "stime": 100.67,
+              "duration": 0.27,
+              "content": "bed",
+              "confidence": 0.7523278903901284
+            },
+            {
+              "stime": 100.97000000000001,
+              "duration": 0.12,
+              "content": "in",
+              "confidence": 0.9492453780238382
+            },
+            {
+              "stime": 101.15,
+              "duration": 0.15,
+              "content": "bid",
+              "confidence": 0.937149380623811
+            },
+            {
+              "stime": 101.36000000000001,
+              "duration": 0.6599999999999999,
+              "content": "guarantees",
+              "confidence": 0.9943700433754515
+            },
+            {
+              "stime": 102.08000000000001,
+              "duration": 0.21,
+              "content": "job",
+              "confidence": 0.957498843424383
+            },
+            {
+              "stime": 102.32000000000001,
+              "duration": 0.12,
+              "content": "in",
+              "confidence": 0.9212603720610826
+            },
+            {
+              "stime": 102.47000000000001,
+              "duration": 0.27,
+              "content": "place",
+              "confidence": 0.9437693199311337
+            },
+            {
+              "stime": 102.77000000000001,
+              "duration": 0.12,
+              "content": "and",
+              "confidence": 0.6960184774009953
+            },
+            {
+              "stime": 102.92,
+              "duration": 0.27,
+              "content": "sealed",
+              "confidence": 0.7406660738503489
+            },
+            {
+              "stime": 103.22000000000001,
+              "duration": 0.44999999999999996,
+              "content": "envelopes",
+              "confidence": 0.48570556306421775
+            },
+            {
+              "stime": 103.7,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.990236674299992
+            },
+            {
+              "stime": 103.82000000000001,
+              "duration": 0.3,
+              "content": "address",
+              "confidence": 0.9898589304828905
+            },
+            {
+              "stime": 104.15,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.8953438285610849
+            },
+            {
+              "stime": 104.27000000000001,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9823564702189468
+            },
+            {
+              "stime": 104.42,
+              "duration": 0.27,
+              "content": "typica",
+              "confidence": 0.7875643226362636
+            },
+            {
+              "stime": 104.75,
+              "duration": 0.09,
+              "content": "new",
+              "confidence": 0.48022367899170176
+            },
+            {
+              "stime": 105.3,
+              "duration": 0.3,
+              "content": "county",
+              "confidence": 0.9878587999841816
+            },
+            {
+              "stime": 105.63,
+              "duration": 0.24,
+              "content": "board",
+              "confidence": 0.9775138403024004
+            },
+            {
+              "stime": 105.93,
+              "duration": 0,
+              "content": "of",
+              "confidence": 0.4262490303599016
+            },
+            {
+              "stime": 105.9,
+              "duration": 0.54,
+              "content": "commissioners",
+              "confidence": 0.9943483513577168
+            },
+            {
+              "stime": 106.5,
+              "duration": 0.12,
+              "content": "and",
+              "confidence": 0.8105270648343845
+            },
+            {
+              "stime": 106.65,
+              "duration": 0.15,
+              "content": "so",
+              "confidence": 0.9331998291864287
+            },
+            {
+              "stime": 106.86,
+              "duration": 0.18,
+              "content": "lists",
+              "confidence": 0.8603559951593043
+            },
+            {
+              "stime": 107.07,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9598314981660043
+            },
+            {
+              "stime": 107.22,
+              "duration": 0.27,
+              "content": "public",
+              "confidence": 0.603896665576925
+            },
+            {
+              "stime": 107.55,
+              "duration": 0.27,
+              "content": "name",
+              "confidence": 0.9982908205486498
+            },
+            {
+              "stime": 108,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9976840117216157
+            },
+            {
+              "stime": 108.15,
+              "duration": 0.15,
+              "content": "name",
+              "confidence": 0.996653506981008
+            },
+            {
+              "stime": 108.33,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.5616486490777511
+            },
+            {
+              "stime": 108.45,
+              "duration": 0.32999999999999996,
+              "content": "address",
+              "confidence": 0.9880402615714236
+            },
+            {
+              "stime": 108.81,
+              "duration": 0.03,
+              "content": "of",
+              "confidence": 0.07076510415761089
+            },
+            {
+              "stime": 108.87,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9105180293542005
+            },
+            {
+              "stime": 109.02,
+              "duration": 0.24,
+              "content": "bidder",
+              "confidence": 0.7787941737214671
+            },
+            {
+              "stime": 109.29,
+              "duration": 0.09,
+              "content": "in",
+              "confidence": 0.8575741142244965
+            },
+            {
+              "stime": 109.41,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9633533313532194
+            },
+            {
+              "stime": 109.53,
+              "duration": 0.18,
+              "content": "bid",
+              "confidence": 0.7374399273589003
+            },
+            {
+              "stime": 109.74,
+              "duration": 0.75,
+              "content": "package",
+              "confidence": 0.9972767631729887
+            },
+            {
+              "stime": 110.55,
+              "duration": 0.32999999999999996,
+              "content": "separate",
+              "confidence": 0.8704644260568583
+            },
+            {
+              "stime": 110.91,
+              "duration": 0.42,
+              "content": "envelopes",
+              "confidence": 0.5786665161735726
+            },
+            {
+              "stime": 111.39,
+              "duration": 0.21,
+              "content": "shall",
+              "confidence": 0.9859063581803551
+            },
+            {
+              "stime": 111.63,
+              "duration": 0.12,
+              "content": "be",
+              "confidence": 0.9964000485981065
+            },
+            {
+              "stime": 111.81,
+              "duration": 0.42,
+              "content": "provided",
+              "confidence": 0.9942345972944369
+            },
+            {
+              "stime": 112.38,
+              "duration": 0.12,
+              "content": "for",
+              "confidence": 0.9976658914382137
+            },
+            {
+              "stime": 112.53,
+              "duration": 0.15,
+              "content": "each",
+              "confidence": 0.9364861906567373
+            },
+            {
+              "stime": 112.74,
+              "duration": 0.24,
+              "content": "bid",
+              "confidence": 0.7119585576189884
+            },
+            {
+              "stime": 113.03999999999999,
+              "duration": 1.68,
+              "content": "package",
+              "confidence": 0.9994056909353527
+            }
+          ],
+          "bookmarks": "ch# 2"
+        },
+        {
+          "speaker": "2",
+          "stime": 114.72,
+          "duration": 23.085,
+          "content": "al tasar forts a unit ship from the factory can figured for dhcp or zero conlin local address if a dhcp server is available that to syra forta will resolve to an adr serve to it if no dhcp server is available that the cera forte will resolve to a link local address and the one six nine two five four range with a sub matter to five by two",
+          "word_chunks": [
+            {
+              "stime": 114.81,
+              "duration": 0.32999999999999996,
+              "content": "al",
+              "confidence": 0.9631501209079036
+            },
+            {
+              "stime": 115.02,
+              "duration": 0.36,
+              "content": "tasar",
+              "confidence": 0.5841159824183714
+            },
+            {
+              "stime": 115.5,
+              "duration": 0.36,
+              "content": "forts",
+              "confidence": 0.7945101893063712
+            },
+            {
+              "stime": 115.77,
+              "duration": 0.09,
+              "content": "a",
+              "confidence": 0.7702776193618774
+            },
+            {
+              "stime": 115.92,
+              "duration": 0.27,
+              "content": "unit",
+              "confidence": 0.9358467592748059
+            },
+            {
+              "stime": 116.22,
+              "duration": 0.21,
+              "content": "ship",
+              "confidence": 0.8974722881759534
+            },
+            {
+              "stime": 116.49,
+              "duration": 0.12,
+              "content": "from",
+              "confidence": 0.9861469474005449
+            },
+            {
+              "stime": 116.64,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9957089693740137
+            },
+            {
+              "stime": 116.76,
+              "duration": 0.39,
+              "content": "factory",
+              "confidence": 0.7627979088210854
+            },
+            {
+              "stime": 117.18,
+              "duration": 0.12,
+              "content": "can",
+              "confidence": 0.9812593929911926
+            },
+            {
+              "stime": 117.36,
+              "duration": 0.3,
+              "content": "figured",
+              "confidence": 0.9422998495733307
+            },
+            {
+              "stime": 117.69,
+              "duration": 0.12,
+              "content": "for",
+              "confidence": 0.9745719008936293
+            },
+            {
+              "stime": 117.9,
+              "duration": 0.69,
+              "content": "dhcp",
+              "confidence": 0.8378795824734702
+            },
+            {
+              "stime": 118.65,
+              "duration": 0.12,
+              "content": "or",
+              "confidence": 0.9977969238615337
+            },
+            {
+              "stime": 118.92,
+              "duration": 0.32999999999999996,
+              "content": "zero",
+              "confidence": 0.9929999461577744
+            },
+            {
+              "stime": 119.4,
+              "duration": 0.72,
+              "content": "conlin",
+              "confidence": 0.9037927579643806
+            },
+            {
+              "stime": 120.15,
+              "duration": 0.32999999999999996,
+              "content": "local",
+              "confidence": 0.9973231862561148
+            },
+            {
+              "stime": 120.53999999999999,
+              "duration": 0.3,
+              "content": "address",
+              "confidence": 0.9992144772075544
+            },
+            {
+              "stime": 121.61999999999999,
+              "duration": 0.09,
+              "content": "if",
+              "confidence": 0.9979849967892501
+            },
+            {
+              "stime": 121.77,
+              "duration": 0.09,
+              "content": "a",
+              "confidence": 0.8365157246589661
+            },
+            {
+              "stime": 121.92,
+              "duration": 0.6599999999999999,
+              "content": "dhcp",
+              "confidence": 0.9838575288006283
+            },
+            {
+              "stime": 122.64,
+              "duration": 0.32999999999999996,
+              "content": "server",
+              "confidence": 0.9980478062727334
+            },
+            {
+              "stime": 123.03,
+              "duration": 0.09,
+              "content": "is",
+              "confidence": 0.9974284333579799
+            },
+            {
+              "stime": 123.17999999999999,
+              "duration": 0.42,
+              "content": "available",
+              "confidence": 0.9991062008000652
+            },
+            {
+              "stime": 123.75,
+              "duration": 0.12,
+              "content": "that",
+              "confidence": 0.7672830055367107
+            },
+            {
+              "stime": 123.92999999999999,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.816649768839001
+            },
+            {
+              "stime": 124.05,
+              "duration": 0.24,
+              "content": "syra",
+              "confidence": 0.7377741082388096
+            },
+            {
+              "stime": 124.32,
+              "duration": 0.39,
+              "content": "forta",
+              "confidence": 0.7891426036141262
+            },
+            {
+              "stime": 124.77,
+              "duration": 0.18,
+              "content": "will",
+              "confidence": 0.9413924669525515
+            },
+            {
+              "stime": 125.00999999999999,
+              "duration": 0.36,
+              "content": "resolve",
+              "confidence": 0.9945080045064535
+            },
+            {
+              "stime": 125.39999999999999,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.9910219267593761
+            },
+            {
+              "stime": 125.55,
+              "duration": 0.09,
+              "content": "an",
+              "confidence": 0.9617447964625907
+            },
+            {
+              "stime": 125.69999999999999,
+              "duration": 0.32999999999999996,
+              "content": "adr",
+              "confidence": 0.9763719447090677
+            },
+            {
+              "stime": 126.06,
+              "duration": 0.24,
+              "content": "serve",
+              "confidence": 0.7387932984449196
+            },
+            {
+              "stime": 126.36,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.9717670015905562
+            },
+            {
+              "stime": 126.53999999999999,
+              "duration": 0.69,
+              "content": "it",
+              "confidence": 0.9565730846806549
+            },
+            {
+              "stime": 127.28999999999999,
+              "duration": 0.12,
+              "content": "if",
+              "confidence": 0.9993262920451322
+            },
+            {
+              "stime": 127.53,
+              "duration": 0.15,
+              "content": "no",
+              "confidence": 0.9995837325547258
+            },
+            {
+              "stime": 127.74,
+              "duration": 0.72,
+              "content": "dhcp",
+              "confidence": 0.9928206397441999
+            },
+            {
+              "stime": 128.49,
+              "duration": 0.3,
+              "content": "server",
+              "confidence": 0.9991665013479218
+            },
+            {
+              "stime": 128.85,
+              "duration": 0.09,
+              "content": "is",
+              "confidence": 0.9971031873370694
+            },
+            {
+              "stime": 129,
+              "duration": 0.39,
+              "content": "available",
+              "confidence": 0.9981309187112961
+            },
+            {
+              "stime": 129.51,
+              "duration": 0.15,
+              "content": "that",
+              "confidence": 0.9856296233960936
+            },
+            {
+              "stime": 129.69,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.5448880627447322
+            },
+            {
+              "stime": 129.81,
+              "duration": 0.24,
+              "content": "cera",
+              "confidence": 0.6252087329602469
+            },
+            {
+              "stime": 130.07999999999998,
+              "duration": 0.32999999999999996,
+              "content": "forte",
+              "confidence": 0.6321267959656315
+            },
+            {
+              "stime": 130.44,
+              "duration": 0.15,
+              "content": "will",
+              "confidence": 0.9269839806123137
+            },
+            {
+              "stime": 130.65,
+              "duration": 0.27,
+              "content": "resolve",
+              "confidence": 0.958907032729451
+            },
+            {
+              "stime": 130.98,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.9942787520300812
+            },
+            {
+              "stime": 131.13,
+              "duration": 0.03,
+              "content": "a",
+              "confidence": 0.9010854363441467
+            },
+            {
+              "stime": 131.22,
+              "duration": 0.18,
+              "content": "link",
+              "confidence": 0.9957006366759338
+            },
+            {
+              "stime": 131.46,
+              "duration": 0.27,
+              "content": "local",
+              "confidence": 0.9983444640733451
+            },
+            {
+              "stime": 131.79,
+              "duration": 0.39,
+              "content": "address",
+              "confidence": 0.9988677565531104
+            },
+            {
+              "stime": 132.21,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.7961705377227762
+            },
+            {
+              "stime": 132.32999999999998,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.8435842372318603
+            },
+            {
+              "stime": 132.54,
+              "duration": 0.15,
+              "content": "one",
+              "confidence": 0.9163459880140531
+            },
+            {
+              "stime": 132.75,
+              "duration": 0.18,
+              "content": "six",
+              "confidence": 0.9495723622018925
+            },
+            {
+              "stime": 133.04999999999998,
+              "duration": 0.09,
+              "content": "nine",
+              "confidence": 0.9505360344828923
+            },
+            {
+              "stime": 133.38,
+              "duration": 0.21,
+              "content": "two",
+              "confidence": 0.7357582642239715
+            },
+            {
+              "stime": 133.65,
+              "duration": 0.18,
+              "content": "five",
+              "confidence": 0.6671245836711905
+            },
+            {
+              "stime": 133.89,
+              "duration": 0.18,
+              "content": "four",
+              "confidence": 0.8496780350198013
+            },
+            {
+              "stime": 134.13,
+              "duration": 0.24,
+              "content": "range",
+              "confidence": 0.8591041629958615
+            },
+            {
+              "stime": 134.4,
+              "duration": 0.12,
+              "content": "with",
+              "confidence": 0.7703513004214269
+            },
+            {
+              "stime": 134.60999999999999,
+              "duration": 0.03,
+              "content": "a",
+              "confidence": 0.5543392300605774
+            },
+            {
+              "stime": 134.67,
+              "duration": 0.21,
+              "content": "sub",
+              "confidence": 0.36087509897785086
+            },
+            {
+              "stime": 134.91,
+              "duration": 0.24,
+              "content": "matter",
+              "confidence": 0.6319221513373011
+            },
+            {
+              "stime": 135.21,
+              "duration": 0.18,
+              "content": "to",
+              "confidence": 0.6422143268724015
+            },
+            {
+              "stime": 135.42,
+              "duration": 0.18,
+              "content": "five",
+              "confidence": 0.41883444210247506
+            },
+            {
+              "stime": 135.63,
+              "duration": 0.18,
+              "content": "by",
+              "confidence": 0.8741167464571831
+            },
+            {
+              "stime": 135.84,
+              "duration": 0.09,
+              "content": "two",
+              "confidence": 0.8867848260179167
+            }
+          ],
+          "bookmarks": "ch# 1"
+        },
+        {
+          "speaker": "3",
+          "stime": 137.805,
+          "duration": 1.225,
+          "content": "should",
+          "word_chunks": [
+            {
+              "stime": 138.82,
+              "duration": 0.21,
+              "content": "should",
+              "confidence": 0.9981159230832629
+            }
+          ],
+          "bookmarks": "ch# 2"
+        },
+        {
+          "speaker": "4",
+          "stime": 139.03,
+          "duration": 32.605,
+          "content": "any better withdraw his bid or bids within sixty days after the time of bid opening or has issued a letter of intent withdraw t his bid or bids after the issuance issuance of such letter intent or fail to execute a form of green if presented the army declared the bid bonds forfeited to the owner as liquidated damages the owner reserves are like to one accept any bids by a letter of intent in sixty days after a bit of opening and a presentation to form an agreement within thirty days from the day of such letters in ten two at any time object all bed and thirty wave",
+          "word_chunks": [
+            {
+              "stime": 139.09,
+              "duration": 0.18,
+              "content": "any",
+              "confidence": 0.9870681240697238
+            },
+            {
+              "stime": 139.33,
+              "duration": 0.27,
+              "content": "better",
+              "confidence": 0.9982076812598657
+            },
+            {
+              "stime": 139.66,
+              "duration": 0.44999999999999996,
+              "content": "withdraw",
+              "confidence": 0.9878350964210857
+            },
+            {
+              "stime": 140.26,
+              "duration": 0.18,
+              "content": "his",
+              "confidence": 0.9921224709870093
+            },
+            {
+              "stime": 140.5,
+              "duration": 0.24,
+              "content": "bid",
+              "confidence": 0.9913128478060058
+            },
+            {
+              "stime": 140.77,
+              "duration": 0.12,
+              "content": "or",
+              "confidence": 0.994603059575353
+            },
+            {
+              "stime": 140.95,
+              "duration": 0.21,
+              "content": "bids",
+              "confidence": 0.9834317762889977
+            },
+            {
+              "stime": 141.19,
+              "duration": 0.27,
+              "content": "within",
+              "confidence": 0.9996119444009575
+            },
+            {
+              "stime": 141.58,
+              "duration": 0.3,
+              "content": "sixty",
+              "confidence": 0.9820619165626348
+            },
+            {
+              "stime": 141.94,
+              "duration": 0.3,
+              "content": "days",
+              "confidence": 0.9984735550446739
+            },
+            {
+              "stime": 142.42000000000002,
+              "duration": 0.18,
+              "content": "after",
+              "confidence": 0.9997645286578452
+            },
+            {
+              "stime": 142.66,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9888969529841412
+            },
+            {
+              "stime": 142.78,
+              "duration": 0.18,
+              "content": "time",
+              "confidence": 0.9990513218773915
+            },
+            {
+              "stime": 142.99,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.9966914016932832
+            },
+            {
+              "stime": 143.2,
+              "duration": 0.15,
+              "content": "bid",
+              "confidence": 0.9551111850253955
+            },
+            {
+              "stime": 143.44,
+              "duration": 0.27,
+              "content": "opening",
+              "confidence": 0.996918053304682
+            },
+            {
+              "stime": 143.8,
+              "duration": 0.09,
+              "content": "or",
+              "confidence": 0.7871129812131079
+            },
+            {
+              "stime": 143.95,
+              "duration": 0.12,
+              "content": "has",
+              "confidence": 0.4108575478481607
+            },
+            {
+              "stime": 144.13,
+              "duration": 0.27,
+              "content": "issued",
+              "confidence": 0.980105297853827
+            },
+            {
+              "stime": 144.43,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.9515894055366516
+            },
+            {
+              "stime": 144.55,
+              "duration": 0.21,
+              "content": "letter",
+              "confidence": 0.9975722511709313
+            },
+            {
+              "stime": 144.82,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.988517028294855
+            },
+            {
+              "stime": 144.94,
+              "duration": 0.69,
+              "content": "intent",
+              "confidence": 0.8164551344038187
+            },
+            {
+              "stime": 145.69,
+              "duration": 0.6,
+              "content": "withdraw",
+              "confidence": 0.8558649666352814
+            },
+            {
+              "stime": 146.26,
+              "duration": 0.03,
+              "content": "t",
+              "confidence": 0.8610856533050537
+            },
+            {
+              "stime": 146.32,
+              "duration": 0.12,
+              "content": "his",
+              "confidence": 0.983934369758493
+            },
+            {
+              "stime": 146.47,
+              "duration": 0.21,
+              "content": "bid",
+              "confidence": 0.9902243336861434
+            },
+            {
+              "stime": 146.74,
+              "duration": 0.09,
+              "content": "or",
+              "confidence": 0.9982912418052327
+            },
+            {
+              "stime": 146.92000000000002,
+              "duration": 0.24,
+              "content": "bids",
+              "confidence": 0.9244532880242586
+            },
+            {
+              "stime": 147.28,
+              "duration": 0.21,
+              "content": "after",
+              "confidence": 0.995007205869005
+            },
+            {
+              "stime": 147.52,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9985939550205416
+            },
+            {
+              "stime": 147.64000000000001,
+              "duration": 0.63,
+              "content": "issuance",
+              "confidence": 0.695882728937507
+            },
+            {
+              "stime": 148.36,
+              "duration": 0.36,
+              "content": "issuance",
+              "confidence": 0.9990423166949515
+            },
+            {
+              "stime": 148.78,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.997060702561268
+            },
+            {
+              "stime": 148.96,
+              "duration": 0.18,
+              "content": "such",
+              "confidence": 0.9969477841107355
+            },
+            {
+              "stime": 149.17000000000002,
+              "duration": 0.24,
+              "content": "letter",
+              "confidence": 0.997994347788231
+            },
+            {
+              "stime": 149.5,
+              "duration": 0.51,
+              "content": "intent",
+              "confidence": 0.8130943172102719
+            },
+            {
+              "stime": 150.1,
+              "duration": 0.12,
+              "content": "or",
+              "confidence": 0.994932435698497
+            },
+            {
+              "stime": 150.28,
+              "duration": 0.24,
+              "content": "fail",
+              "confidence": 0.9899906693333479
+            },
+            {
+              "stime": 150.55,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.9994443283928516
+            },
+            {
+              "stime": 150.7,
+              "duration": 0.39,
+              "content": "execute",
+              "confidence": 0.9626955451592352
+            },
+            {
+              "stime": 151.15,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.9077014923095703
+            },
+            {
+              "stime": 151.3,
+              "duration": 0.21,
+              "content": "form",
+              "confidence": 0.9906157208088419
+            },
+            {
+              "stime": 151.54,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.35846294963654046
+            },
+            {
+              "stime": 151.69,
+              "duration": 0.36,
+              "content": "green",
+              "confidence": 0.9029666976513581
+            },
+            {
+              "stime": 152.11,
+              "duration": 0.09,
+              "content": "if",
+              "confidence": 0.9925663257170019
+            },
+            {
+              "stime": 152.29,
+              "duration": 0.36,
+              "content": "presented",
+              "confidence": 0.9915035863157899
+            },
+            {
+              "stime": 153.06,
+              "duration": 0.15,
+              "content": "the",
+              "confidence": 0.9933923619137008
+            },
+            {
+              "stime": 153.27,
+              "duration": 0.32999999999999996,
+              "content": "army",
+              "confidence": 0.7763750987678864
+            },
+            {
+              "stime": 153.66,
+              "duration": 0.32999999999999996,
+              "content": "declared",
+              "confidence": 0.9567860152956542
+            },
+            {
+              "stime": 154.11,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9771739077657579
+            },
+            {
+              "stime": 154.26,
+              "duration": 0.18,
+              "content": "bid",
+              "confidence": 0.9934470663345999
+            },
+            {
+              "stime": 154.47,
+              "duration": 0.36,
+              "content": "bonds",
+              "confidence": 0.9980680121459516
+            },
+            {
+              "stime": 154.89,
+              "duration": 0.51,
+              "content": "forfeited",
+              "confidence": 0.9691398476653158
+            },
+            {
+              "stime": 155.46,
+              "duration": 0.06,
+              "content": "to",
+              "confidence": 0.9950897985608116
+            },
+            {
+              "stime": 155.55,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9912820929291191
+            },
+            {
+              "stime": 155.7,
+              "duration": 0.21,
+              "content": "owner",
+              "confidence": 0.9474283709552288
+            },
+            {
+              "stime": 155.97,
+              "duration": 0.09,
+              "content": "as",
+              "confidence": 0.9977424565061559
+            },
+            {
+              "stime": 156.15,
+              "duration": 0.44999999999999996,
+              "content": "liquidated",
+              "confidence": 0.6996797377963369
+            },
+            {
+              "stime": 156.66,
+              "duration": 0.8099999999999999,
+              "content": "damages",
+              "confidence": 0.6021623205286248
+            },
+            {
+              "stime": 157.53,
+              "duration": 0.15,
+              "content": "the",
+              "confidence": 0.99007088819499
+            },
+            {
+              "stime": 157.74,
+              "duration": 0.24,
+              "content": "owner",
+              "confidence": 0.8445143161990406
+            },
+            {
+              "stime": 158.04,
+              "duration": 0.3,
+              "content": "reserves",
+              "confidence": 0.9298784603387674
+            },
+            {
+              "stime": 158.4,
+              "duration": 0.09,
+              "content": "are",
+              "confidence": 0.8114589911522945
+            },
+            {
+              "stime": 158.52,
+              "duration": 0.18,
+              "content": "like",
+              "confidence": 0.5657036534047388
+            },
+            {
+              "stime": 158.73,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.9895655385344891
+            },
+            {
+              "stime": 159,
+              "duration": 0.27,
+              "content": "one",
+              "confidence": 0.9604777518946189
+            },
+            {
+              "stime": 159.33,
+              "duration": 0.36,
+              "content": "accept",
+              "confidence": 0.6823568634504056
+            },
+            {
+              "stime": 159.78,
+              "duration": 0.21,
+              "content": "any",
+              "confidence": 0.8078891183729149
+            },
+            {
+              "stime": 160.05,
+              "duration": 0.24,
+              "content": "bids",
+              "confidence": 0.7487726756501626
+            },
+            {
+              "stime": 160.35,
+              "duration": 0.09,
+              "content": "by",
+              "confidence": 0.997472615185646
+            },
+            {
+              "stime": 160.5,
+              "duration": 0.09,
+              "content": "a",
+              "confidence": 0.8849520087242126
+            },
+            {
+              "stime": 160.62,
+              "duration": 0.24,
+              "content": "letter",
+              "confidence": 0.9960662787028259
+            },
+            {
+              "stime": 160.89,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.6612066515322197
+            },
+            {
+              "stime": 160.98,
+              "duration": 0.39,
+              "content": "intent",
+              "confidence": 0.46536597107888056
+            },
+            {
+              "stime": 161.4,
+              "duration": 0.12,
+              "content": "in",
+              "confidence": 0.8827459014386014
+            },
+            {
+              "stime": 161.55,
+              "duration": 0.24,
+              "content": "sixty",
+              "confidence": 0.7805503649235499
+            },
+            {
+              "stime": 161.82,
+              "duration": 0.24,
+              "content": "days",
+              "confidence": 0.9877697396475889
+            },
+            {
+              "stime": 162.12,
+              "duration": 0.27,
+              "content": "after",
+              "confidence": 0.7267071999743977
+            },
+            {
+              "stime": 162.36,
+              "duration": 0.03,
+              "content": "a",
+              "confidence": 0.06838824599981308
+            },
+            {
+              "stime": 162.45,
+              "duration": 0.15,
+              "content": "bit",
+              "confidence": 0.8081862616842923
+            },
+            {
+              "stime": 162.66,
+              "duration": 0.09,
+              "content": "of",
+              "confidence": 0.9951221789605952
+            },
+            {
+              "stime": 162.81,
+              "duration": 0.54,
+              "content": "opening",
+              "confidence": 0.9980480894377617
+            },
+            {
+              "stime": 163.41,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.9945148758027876
+            },
+            {
+              "stime": 163.56,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.8907821774482727
+            },
+            {
+              "stime": 163.65,
+              "duration": 0.51,
+              "content": "presentation",
+              "confidence": 0.9985451819925261
+            },
+            {
+              "stime": 164.19,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.7035475116852319
+            },
+            {
+              "stime": 164.37,
+              "duration": 0.24,
+              "content": "form",
+              "confidence": 0.9437294224888672
+            },
+            {
+              "stime": 164.64,
+              "duration": 0.09,
+              "content": "an",
+              "confidence": 0.34938882587090975
+            },
+            {
+              "stime": 164.82,
+              "duration": 0.32999999999999996,
+              "content": "agreement",
+              "confidence": 0.999288334671449
+            },
+            {
+              "stime": 165.18,
+              "duration": 0.27,
+              "content": "within",
+              "confidence": 0.7411974736277874
+            },
+            {
+              "stime": 165.51,
+              "duration": 0.27,
+              "content": "thirty",
+              "confidence": 0.9768812435461964
+            },
+            {
+              "stime": 165.81,
+              "duration": 0.63,
+              "content": "days",
+              "confidence": 0.9988685950887791
+            },
+            {
+              "stime": 166.5,
+              "duration": 0.18,
+              "content": "from",
+              "confidence": 0.9978947554208119
+            },
+            {
+              "stime": 166.8,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9847697226505612
+            },
+            {
+              "stime": 166.95,
+              "duration": 0.44999999999999996,
+              "content": "day",
+              "confidence": 0.8350251861608474
+            },
+            {
+              "stime": 167.58,
+              "duration": 0.09,
+              "content": "of",
+              "confidence": 0.9988127828380637
+            },
+            {
+              "stime": 167.79,
+              "duration": 0.18,
+              "content": "such",
+              "confidence": 0.9965953959533244
+            },
+            {
+              "stime": 168,
+              "duration": 0.27,
+              "content": "letters",
+              "confidence": 0.9379582872199432
+            },
+            {
+              "stime": 168.36,
+              "duration": 0.09,
+              "content": "in",
+              "confidence": 0.736879803105739
+            },
+            {
+              "stime": 168.48,
+              "duration": 0.15,
+              "content": "ten",
+              "confidence": 0.46696378374347935
+            },
+            {
+              "stime": 169.04,
+              "duration": 0.3,
+              "content": "two",
+              "confidence": 0.6938422314637468
+            },
+            {
+              "stime": 169.39999999999998,
+              "duration": 0.09,
+              "content": "at",
+              "confidence": 0.9684433146687016
+            },
+            {
+              "stime": 169.54999999999998,
+              "duration": 0.18,
+              "content": "any",
+              "confidence": 0.9744675844306975
+            },
+            {
+              "stime": 169.79,
+              "duration": 0.18,
+              "content": "time",
+              "confidence": 0.9964690009145278
+            },
+            {
+              "stime": 170,
+              "duration": 0.3,
+              "content": "object",
+              "confidence": 0.5945889788648689
+            },
+            {
+              "stime": 170.35999999999999,
+              "duration": 0.15,
+              "content": "all",
+              "confidence": 0.9265437643453235
+            },
+            {
+              "stime": 170.57,
+              "duration": 0.15,
+              "content": "bed",
+              "confidence": 0.6412886000529072
+            },
+            {
+              "stime": 170.78,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.7809021040473243
+            },
+            {
+              "stime": 170.95999999999998,
+              "duration": 0.42,
+              "content": "thirty",
+              "confidence": 0.8843318113224533
+            },
+            {
+              "stime": 171.44,
+              "duration": 0.21,
+              "content": "wave",
+              "confidence": 0.9990255244072077
+            }
+          ],
+          "bookmarks": "ch# 2"
+        },
+        {
+          "speaker": "1",
+          "stime": 171.635,
+          "duration": 1.245,
+          "content": "all informality s",
+          "word_chunks": [
+            {
+              "stime": 171.82999999999998,
+              "duration": 0.21,
+              "content": "all",
+              "confidence": 0.997906730807149
+            },
+            {
+              "stime": 172.16,
+              "duration": 0.72,
+              "content": "informality",
+              "confidence": 0.5010237922754677
+            },
+            {
+              "stime": 172.82,
+              "duration": 0.06,
+              "content": "s",
+              "confidence": 0.9995031356811523
+            }
+          ],
+          "bookmarks": "None"
+        },
+        {
+          "speaker": "4",
+          "stime": 172.88,
+          "duration": 9.989999999999998,
+          "content": "irregularities or errors in the bidding provided is not in violation of the notice of bidders or the statutes of a state of diana",
+          "word_chunks": [
+            {
+              "stime": 173,
+              "duration": 1.17,
+              "content": "irregularities",
+              "confidence": 0.9962126954056547
+            },
+            {
+              "stime": 174.26,
+              "duration": 0.12,
+              "content": "or",
+              "confidence": 0.9956258938285257
+            },
+            {
+              "stime": 174.5,
+              "duration": 0.32999999999999996,
+              "content": "errors",
+              "confidence": 0.987670054841244
+            },
+            {
+              "stime": 175.01,
+              "duration": 0.09,
+              "content": "in",
+              "confidence": 0.9954153951842027
+            },
+            {
+              "stime": 175.13,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9864875768272148
+            },
+            {
+              "stime": 175.25,
+              "duration": 0.36,
+              "content": "bidding",
+              "confidence": 0.9454390831964099
+            },
+            {
+              "stime": 175.67,
+              "duration": 0.51,
+              "content": "provided",
+              "confidence": 0.8757446732311459
+            },
+            {
+              "stime": 176.23999999999998,
+              "duration": 0.12,
+              "content": "is",
+              "confidence": 0.9962887718974577
+            },
+            {
+              "stime": 176.45,
+              "duration": 0.21,
+              "content": "not",
+              "confidence": 0.9811677382266347
+            },
+            {
+              "stime": 176.69,
+              "duration": 0.12,
+              "content": "in",
+              "confidence": 0.9003149776829115
+            },
+            {
+              "stime": 176.89999999999998,
+              "duration": 0.51,
+              "content": "violation",
+              "confidence": 0.9964975229953714
+            },
+            {
+              "stime": 177.47,
+              "duration": 0.09,
+              "content": "of",
+              "confidence": 0.9431023200470711
+            },
+            {
+              "stime": 177.58999999999997,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9824362190655089
+            },
+            {
+              "stime": 177.73999999999998,
+              "duration": 0.27,
+              "content": "notice",
+              "confidence": 0.9656044145421069
+            },
+            {
+              "stime": 178.04,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.9942935902582011
+            },
+            {
+              "stime": 178.16,
+              "duration": 0.32999999999999996,
+              "content": "bidders",
+              "confidence": 0.8952372505220568
+            },
+            {
+              "stime": 178.54999999999998,
+              "duration": 0.09,
+              "content": "or",
+              "confidence": 0.9909257297272814
+            },
+            {
+              "stime": 178.67,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9941181419687861
+            },
+            {
+              "stime": 178.82,
+              "duration": 0.9299999999999999,
+              "content": "statutes",
+              "confidence": 0.9848083671839766
+            },
+            {
+              "stime": 179.80999999999997,
+              "duration": 0.44999999999999996,
+              "content": "of",
+              "confidence": 0.9965698598902836
+            },
+            {
+              "stime": 180.35,
+              "duration": 0.18,
+              "content": "a",
+              "confidence": 0.07406721264123917
+            },
+            {
+              "stime": 180.58999999999997,
+              "duration": 0.6,
+              "content": "state",
+              "confidence": 0.9220921249895567
+            },
+            {
+              "stime": 181.22,
+              "duration": 0.09,
+              "content": "of",
+              "confidence": 0.9834293175656678
+            },
+            {
+              "stime": 181.42999999999998,
+              "duration": 1.44,
+              "content": "diana",
+              "confidence": 0.75428366753396
+            }
+          ],
+          "bookmarks": "None"
+        },
+        {
+          "speaker": "2",
+          "stime": 182.87,
+          "duration": 31.84,
+          "content": "when using more than one device and a system each device must have a unique ip address to se ur device ip addresses must be different from any ip address that will be used on the same network segment please note that adjusting at the cera forti ip address will stop the system audio to make changes to the to sira forte ipa address you must first be disconnected from the system and the desire software go to system network perform device maintenance select the devices of ice lists and select network settings",
+          "word_chunks": [
+            {
+              "stime": 182.92999999999998,
+              "duration": 0.18,
+              "content": "when",
+              "confidence": 0.9562089976575998
+            },
+            {
+              "stime": 183.2,
+              "duration": 0.24,
+              "content": "using",
+              "confidence": 0.9267867776395573
+            },
+            {
+              "stime": 183.5,
+              "duration": 0.15,
+              "content": "more",
+              "confidence": 0.9990219608524699
+            },
+            {
+              "stime": 183.67999999999998,
+              "duration": 0.15,
+              "content": "than",
+              "confidence": 0.997309433802535
+            },
+            {
+              "stime": 183.89,
+              "duration": 0.12,
+              "content": "one",
+              "confidence": 0.9835270245105436
+            },
+            {
+              "stime": 184.07,
+              "duration": 0.27,
+              "content": "device",
+              "confidence": 0.9833668117090635
+            },
+            {
+              "stime": 184.39999999999998,
+              "duration": 0.09,
+              "content": "and",
+              "confidence": 0.8946741610569805
+            },
+            {
+              "stime": 184.54999999999998,
+              "duration": 0.03,
+              "content": "a",
+              "confidence": 0.9972065091133118
+            },
+            {
+              "stime": 184.67,
+              "duration": 0.36,
+              "content": "system",
+              "confidence": 0.7439944748631766
+            },
+            {
+              "stime": 185.17999999999998,
+              "duration": 0.18,
+              "content": "each",
+              "confidence": 0.9999086357372999
+            },
+            {
+              "stime": 185.39,
+              "duration": 0.32999999999999996,
+              "content": "device",
+              "confidence": 0.990100093038498
+            },
+            {
+              "stime": 185.77999999999997,
+              "duration": 0.18,
+              "content": "must",
+              "confidence": 0.9977594277427806
+            },
+            {
+              "stime": 185.98999999999998,
+              "duration": 0.15,
+              "content": "have",
+              "confidence": 0.9999809860597012
+            },
+            {
+              "stime": 186.17,
+              "duration": 0.06,
+              "content": "a",
+              "confidence": 0.9959564805030823
+            },
+            {
+              "stime": 186.29,
+              "duration": 0.27,
+              "content": "unique",
+              "confidence": 0.9997577480731626
+            },
+            {
+              "stime": 186.61999999999998,
+              "duration": 0.24,
+              "content": "ip",
+              "confidence": 0.985732527182398
+            },
+            {
+              "stime": 186.89,
+              "duration": 0.3,
+              "content": "address",
+              "confidence": 0.9976902566161049
+            },
+            {
+              "stime": 187.78,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.9751838090664509
+            },
+            {
+              "stime": 187.95999999999998,
+              "duration": 0.15,
+              "content": "se",
+              "confidence": 0.7476579761972708
+            },
+            {
+              "stime": 188.17,
+              "duration": 0.06,
+              "content": "ur",
+              "confidence": 0.9057437478294322
+            },
+            {
+              "stime": 188.26,
+              "duration": 0.3,
+              "content": "device",
+              "confidence": 0.9883843563738658
+            },
+            {
+              "stime": 188.61999999999998,
+              "duration": 0.27,
+              "content": "ip",
+              "confidence": 0.9914112791909656
+            },
+            {
+              "stime": 188.92,
+              "duration": 0.48,
+              "content": "addresses",
+              "confidence": 0.9823038619934854
+            },
+            {
+              "stime": 189.51999999999998,
+              "duration": 0.15,
+              "content": "must",
+              "confidence": 0.996527427549455
+            },
+            {
+              "stime": 189.73,
+              "duration": 0.09,
+              "content": "be",
+              "confidence": 0.9987779125185057
+            },
+            {
+              "stime": 189.85,
+              "duration": 0.32999999999999996,
+              "content": "different",
+              "confidence": 0.9992334974410887
+            },
+            {
+              "stime": 190.20999999999998,
+              "duration": 0.12,
+              "content": "from",
+              "confidence": 0.999888559700026
+            },
+            {
+              "stime": 190.42,
+              "duration": 0.18,
+              "content": "any",
+              "confidence": 0.9954725877526586
+            },
+            {
+              "stime": 190.66,
+              "duration": 0.3,
+              "content": "ip",
+              "confidence": 0.9998119933573502
+            },
+            {
+              "stime": 191.01999999999998,
+              "duration": 0.3,
+              "content": "address",
+              "confidence": 0.9387087438559155
+            },
+            {
+              "stime": 191.35,
+              "duration": 0.15,
+              "content": "that",
+              "confidence": 0.9980594315425968
+            },
+            {
+              "stime": 191.56,
+              "duration": 0.18,
+              "content": "will",
+              "confidence": 0.9986273910205894
+            },
+            {
+              "stime": 191.76999999999998,
+              "duration": 0.06,
+              "content": "be",
+              "confidence": 0.9984513864666055
+            },
+            {
+              "stime": 191.89,
+              "duration": 0.15,
+              "content": "used",
+              "confidence": 0.9944306776368175
+            },
+            {
+              "stime": 192.1,
+              "duration": 0.09,
+              "content": "on",
+              "confidence": 0.9976479512184008
+            },
+            {
+              "stime": 192.25,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.9971779793347197
+            },
+            {
+              "stime": 192.39999999999998,
+              "duration": 0.15,
+              "content": "same",
+              "confidence": 0.9979404379047276
+            },
+            {
+              "stime": 192.60999999999999,
+              "duration": 0.32999999999999996,
+              "content": "network",
+              "confidence": 0.9998428324840998
+            },
+            {
+              "stime": 193,
+              "duration": 1.08,
+              "content": "segment",
+              "confidence": 0.9414075867846026
+            },
+            {
+              "stime": 194.14,
+              "duration": 0.24,
+              "content": "please",
+              "confidence": 0.9979957992503325
+            },
+            {
+              "stime": 194.44,
+              "duration": 0.15,
+              "content": "note",
+              "confidence": 0.9939485533737884
+            },
+            {
+              "stime": 194.61999999999998,
+              "duration": 0.15,
+              "content": "that",
+              "confidence": 0.9704513341839272
+            },
+            {
+              "stime": 194.82999999999998,
+              "duration": 0.42,
+              "content": "adjusting",
+              "confidence": 0.9785333723859626
+            },
+            {
+              "stime": 195.28,
+              "duration": 0.09,
+              "content": "at",
+              "confidence": 0.7668371333329244
+            },
+            {
+              "stime": 195.39999999999998,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.5926597538647025
+            },
+            {
+              "stime": 195.51999999999998,
+              "duration": 0.21,
+              "content": "cera",
+              "confidence": 0.7812312739233961
+            },
+            {
+              "stime": 195.76,
+              "duration": 0.32999999999999996,
+              "content": "forti",
+              "confidence": 0.9004843450414306
+            },
+            {
+              "stime": 196.14999999999998,
+              "duration": 0.24,
+              "content": "ip",
+              "confidence": 0.9991716319362258
+            },
+            {
+              "stime": 196.45,
+              "duration": 0.3,
+              "content": "address",
+              "confidence": 0.9864157497954059
+            },
+            {
+              "stime": 196.81,
+              "duration": 0.15,
+              "content": "will",
+              "confidence": 0.9939928731717931
+            },
+            {
+              "stime": 196.98999999999998,
+              "duration": 0.21,
+              "content": "stop",
+              "confidence": 0.9999419435224821
+            },
+            {
+              "stime": 197.26,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9879259262827844
+            },
+            {
+              "stime": 197.41,
+              "duration": 0.27,
+              "content": "system",
+              "confidence": 0.998825047066211
+            },
+            {
+              "stime": 197.76999999999998,
+              "duration": 1.17,
+              "content": "audio",
+              "confidence": 0.9990265949129266
+            },
+            {
+              "stime": 198.97,
+              "duration": 0.12,
+              "content": "to",
+              "confidence": 0.9923474828429182
+            },
+            {
+              "stime": 199.14999999999998,
+              "duration": 0.21,
+              "content": "make",
+              "confidence": 0.9989168187394526
+            },
+            {
+              "stime": 199.42,
+              "duration": 0.32999999999999996,
+              "content": "changes",
+              "confidence": 0.9952203860985714
+            },
+            {
+              "stime": 199.81,
+              "duration": 0.06,
+              "content": "to",
+              "confidence": 0.968510252530568
+            },
+            {
+              "stime": 199.92999999999998,
+              "duration": 0.09,
+              "content": "the",
+              "confidence": 0.7737671074282301
+            },
+            {
+              "stime": 200.07999999999998,
+              "duration": 0.06,
+              "content": "to",
+              "confidence": 0.8406650148324963
+            },
+            {
+              "stime": 200.2,
+              "duration": 0.27,
+              "content": "sira",
+              "confidence": 0.7593319838207092
+            },
+            {
+              "stime": 200.5,
+              "duration": 0.3,
+              "content": "forte",
+              "confidence": 0.7199381437659328
+            },
+            {
+              "stime": 200.85999999999999,
+              "duration": 0.32999999999999996,
+              "content": "ipa",
+              "confidence": 0.9625687328391785
+            },
+            {
+              "stime": 201.22,
+              "duration": 0.32999999999999996,
+              "content": "address",
+              "confidence": 0.5558471498005106
+            },
+            {
+              "stime": 201.57999999999998,
+              "duration": 0.09,
+              "content": "you",
+              "confidence": 0.6245403970361446
+            },
+            {
+              "stime": 201.73,
+              "duration": 0.18,
+              "content": "must",
+              "confidence": 0.9968243478369648
+            },
+            {
+              "stime": 201.97,
+              "duration": 0.21,
+              "content": "first",
+              "confidence": 0.9987109961580364
+            },
+            {
+              "stime": 202.20999999999998,
+              "duration": 0.18,
+              "content": "be",
+              "confidence": 0.8609190236213206
+            },
+            {
+              "stime": 202.48,
+              "duration": 0.57,
+              "content": "disconnected",
+              "confidence": 0.9989967851689292
+            },
+            {
+              "stime": 203.07999999999998,
+              "duration": 0.15,
+              "content": "from",
+              "confidence": 0.9993923260509444
+            },
+            {
+              "stime": 203.26,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9980201060674739
+            },
+            {
+              "stime": 203.41,
+              "duration": 0.27,
+              "content": "system",
+              "confidence": 0.9975495702613386
+            },
+            {
+              "stime": 204.57,
+              "duration": 0.12,
+              "content": "and",
+              "confidence": 0.6529240557612898
+            },
+            {
+              "stime": 204.72,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9641082319616376
+            },
+            {
+              "stime": 204.87,
+              "duration": 0.36,
+              "content": "desire",
+              "confidence": 0.6409837314737306
+            },
+            {
+              "stime": 205.26,
+              "duration": 0.39,
+              "content": "software",
+              "confidence": 0.9937561545084008
+            },
+            {
+              "stime": 205.71,
+              "duration": 0.12,
+              "content": "go",
+              "confidence": 0.6921077150419406
+            },
+            {
+              "stime": 205.89,
+              "duration": 0.09,
+              "content": "to",
+              "confidence": 0.899129684616882
+            },
+            {
+              "stime": 206.07,
+              "duration": 0.54,
+              "content": "system",
+              "confidence": 0.9941903753545646
+            },
+            {
+              "stime": 206.67,
+              "duration": 0.42,
+              "content": "network",
+              "confidence": 0.9992399630701363
+            },
+            {
+              "stime": 207.27,
+              "duration": 0.39,
+              "content": "perform",
+              "confidence": 0.9942864692225897
+            },
+            {
+              "stime": 207.69,
+              "duration": 0.3,
+              "content": "device",
+              "confidence": 0.7649854934222683
+            },
+            {
+              "stime": 208.05,
+              "duration": 0.8999999999999999,
+              "content": "maintenance",
+              "confidence": 0.935774208085165
+            },
+            {
+              "stime": 209.13,
+              "duration": 0.3,
+              "content": "select",
+              "confidence": 0.956743466703375
+            },
+            {
+              "stime": 209.49,
+              "duration": 0.12,
+              "content": "the",
+              "confidence": 0.9929738537323458
+            },
+            {
+              "stime": 209.64,
+              "duration": 0.51,
+              "content": "devices",
+              "confidence": 0.8063516547889569
+            },
+            {
+              "stime": 210.21,
+              "duration": 0.06,
+              "content": "of",
+              "confidence": 0.8141714961575093
+            },
+            {
+              "stime": 210.36,
+              "duration": 0.15,
+              "content": "ice",
+              "confidence": 0.9873466031975344
+            },
+            {
+              "stime": 210.57,
+              "duration": 0.32999999999999996,
+              "content": "lists",
+              "confidence": 0.8729903314723575
+            },
+            {
+              "stime": 210.96,
+              "duration": 0.12,
+              "content": "and",
+              "confidence": 0.9787182281367963
+            },
+            {
+              "stime": 211.14,
+              "duration": 0.3,
+              "content": "select",
+              "confidence": 0.9678784448741088
+            },
+            {
+              "stime": 211.53,
+              "duration": 0.27,
+              "content": "network",
+              "confidence": 0.9999322590663581
+            },
+            {
+              "stime": 211.86,
+              "duration": 2.85,
+              "content": "settings",
+              "confidence": 0.9184041217226441
+            }
+          ],
+          "bookmarks": "ch# 1"
+        }
+      ],
+      "process_time": 70.25125527381897
+    }
+  }
+]
