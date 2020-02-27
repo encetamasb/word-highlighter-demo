@@ -2,8 +2,8 @@ module Main exposing (..)
 
 import Browser
 import Debug
-import Html exposing (Attribute, Html, audio, div, text)
-import Html.Attributes exposing (class, controls, id, src, type_)
+import Html exposing (Attribute, Html, audio, b, div, text)
+import Html.Attributes exposing (class, controls, id, src, style, type_)
 import Html.Events exposing (on)
 import Http
 import Json.Decode as Decode exposing (Decoder)
@@ -165,17 +165,28 @@ view model =
             , onTimeUpdate TimeUpdate
             ]
             []
-        , div [] [ text << String.fromFloat <| model.currentTime ]
-        , currentWordView speaker wchunk
+        , div [] [ text <| "Current time: " ++ (String.fromFloat <| model.currentTime) ]
+        , if model.currentTime > 0 then
+            currentWordView speaker wchunk
+
+          else
+            text ""
         ]
 
 
 currentWordView speaker wchunk =
     case ( speaker, wchunk ) of
+        ( Just sp, Nothing ) ->
+            div []
+                [ div [] [ text <| "Speaker Id: " ++ sp ++ "" ]
+                ]
+
         ( Just sp, Just ch ) ->
             div []
-                [ div [] [ text <| "(" ++ sp ++ ")" ]
-                , div [] [ text ch.content ]
+                [ div [] [ text <| "Speaker Id: " ++ sp ++ "" ]
+                , div [style "margin" "10px"]
+                    [ b [ style "padding" "5px", style "border" "1px solid black" ] [ text ch.content ]
+                    ]
                 ]
 
         _ ->
