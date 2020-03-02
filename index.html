@@ -11,7 +11,10 @@
         var base_url = location.href.replace(/[^/]*$/, '').slice(0, -1);
         var app = Elm.Main.init({
             node: document.getElementById("app"),
-            flags: base_url,
+            flags:
+              { mediaUrl: base_url + "/Test4.wav"
+              , transcriptDataUrl: base_url + "/test4_transcript.json_out.json"
+              }
         });
     </script>
 </body>

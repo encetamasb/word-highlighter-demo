@@ -10,6 +10,12 @@ import Json.Decode as Decode exposing (Decoder)
 import Json.Decode.Pipeline exposing (required)
 
 
+type alias Flags =
+    { mediaUrl : String
+    , transcriptDataUrl : String
+    }
+
+
 type alias Model =
     { mediaUrl : String
     , transcriptDataUrl : String
@@ -67,12 +73,12 @@ type Msg
 -- INIT
 
 
-init : String -> ( Model, Cmd Msg )
-init base_url =
+init : Flags -> ( Model, Cmd Msg )
+init ({ mediaUrl, transcriptDataUrl } as flags) =
     let
         model =
-            { mediaUrl = base_url ++ "/Test4.wav"
-            , transcriptDataUrl = base_url ++ "/test4_transcript.json_out.json"
+            { mediaUrl = mediaUrl
+            , transcriptDataUrl = transcriptDataUrl
             , mediaType = "audio/wav"
             , currentTime = 0.0
             , transcripts = Nothing
@@ -101,7 +107,7 @@ update msg model =
                     ( model, Cmd.none )
 
         _ ->
-            Debug.log "Unknown message" ( model, Cmd.none )
+            ( model, Cmd.none )
 
 
 subscriptions : Model -> Sub Msg
@@ -184,7 +190,7 @@ currentWordView speaker wchunk =
         ( Just sp, Just ch ) ->
             div []
                 [ div [] [ text <| "Speaker Id: " ++ sp ++ "" ]
-                , div [style "margin" "10px"]
+                , div [ style "margin" "10px" ]
                     [ b [ style "padding" "5px", style "border" "1px solid black" ] [ text ch.content ]
                     ]
                 ]
